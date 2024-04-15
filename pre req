@@ -1,0 +1,3 @@
+pip install emails
+pip install secure-smtplib
+python --version
